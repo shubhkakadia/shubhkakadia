@@ -31,7 +31,7 @@ Detail-oriented ICT professional specializing in full-stack web development, bui
 ## 💼 Professional Experience
 
 ### 🔹 NextJS Full-Stack Developer @ Ikonic Kitchens and Cabinets
-*Sep 2024 - Present*
+*Sep 2025 - Present*
 
 Building comprehensive ERP/CRM system with:
 - 🎯 Project tracking & scheduling modules
