@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+Specialist;React+%26+Node.js+Expert;Building+Scalable+Web+Apps)
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-shubhkakadia.com-blue?style=for-the-badge&logo=google-chrome)](https://shubhkakadia.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shubhkakadia)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubh-kakadia/)
   [![Email](https://img.shields.io/badge/Email-shubhkakadia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhkakadia@gmail.com)
   [![Location](https://img.shields.io/badge/Location-Adelaide%2C%20SA-green?style=for-the-badge&logo=google-maps)](https://maps.google.com)
 
